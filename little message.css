@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(130, 191, 251);
+}
+
+img {
+    height: 60%;
+    width: 40%;
+}
+
+.h1-container {
+    color: white;
+    justify-content: center;
+    align-items: center;
+}

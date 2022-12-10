@@ -1,0 +1,28 @@
+*, html {
+    background-color: rgb(142, 188, 234);
+}
+
+.h1-text {
+    font-size: 20px;
+}
+
+img {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    width: 30%;
+    height: 50%;
+}
+
+.container-footer {
+    background-color: #003366;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    color: white;
+}
+
+.container-content {
+    height: 80vh;
+}
